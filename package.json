@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-karma": "^0.0.5",
+    "gulp-shell": "^0.5.2",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-html-detailed-reporter": "^1.1.8",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "karma-requirejs": "^1.0.0",
+    "phantomjs-prebuilt": "^2.1.7",
+    "requirejs": "^2.2.0"
+  }
+}
